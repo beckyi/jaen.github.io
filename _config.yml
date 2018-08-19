@@ -39,8 +39,8 @@ email: beckyi@naver.com
 avatar: assets/images/jaen.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "beckyi.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://beckyi.github.io" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
